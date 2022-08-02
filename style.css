@@ -71,6 +71,7 @@ input[type="password"] {
     padding-bottom: 0.4rem;
 }
 
+/* Styling of button starts  */
 .btn {
     margin-top: 2rem;
 }
@@ -83,7 +84,14 @@ input[type="password"] {
     padding: 1rem;
     border-radius: 4px;
     font-size: 1.2rem;
+    cursor: pointer;
 }
+
+button:hover {
+    background-color: #877BDC;
+}
+
+/* Styling of button end */
 
 .footer {
     text-align: center;
